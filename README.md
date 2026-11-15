@@ -5,7 +5,7 @@
 Claude Code 설치:
 
 ```sh
-claude plugin marketplace add hoon0510/intrix-claude-plugin
+claude plugin marketplace add intrix-geo/intrix-claude-plugin
 claude plugin install intrix@intrix-marketplace
 ```
 
