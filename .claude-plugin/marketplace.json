@@ -1,0 +1,16 @@
+{
+  "name": "intrix-marketplace",
+  "owner": {
+    "name": "Intrix"
+  },
+  "plugins": [
+    {
+      "name": "intrix",
+      "source": "./plugins/intrix",
+      "description": "Work on your Intrix improvement tasks with Claude."
+    }
+  ],
+  "metadata": {
+    "description": "Intrix homepage and external channel drafting workflow for Claude."
+  }
+}

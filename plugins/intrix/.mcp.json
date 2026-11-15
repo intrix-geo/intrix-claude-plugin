@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "intrix": { "type": "http", "url": "https://intrix.kr/api/mcp" }
+  }
+}

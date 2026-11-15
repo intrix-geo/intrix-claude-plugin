@@ -1,0 +1,6 @@
+{
+  "name": "intrix",
+  "version": "1.0.0",
+  "description": "Draft homepage and external channel content from Intrix tasks and review results after publication.",
+  "author": { "name": "Intrix" }
+}
